@@ -11,3 +11,7 @@
 - use git branch to create a branch
 - use cd to navigate to the correct directory
 - use git push to push your changes onto the main branch
+"hello world it is sunny outside"
+"try smiling"
+"watch the echo 360 if you get confused(like me)"
+- use git push to push your changes onto the main branch
