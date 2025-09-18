@@ -18,4 +18,10 @@ Here are three useful Git tips for developers:
    - Example:
      ```bash
      git log --oneline --graph --all
+
+
+
+
+
+    // Hey HEllo guys Im editing a file isnt this cool //
      ```
